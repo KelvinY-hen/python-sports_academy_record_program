@@ -1,0 +1,9 @@
+1234567890,king,123,170.0,200,12345123,tampan,12345,123,123,123,3.0,2,6.0
+7777777777,Astor,15,-,200,12345678,Jalan Kebanggaan,0987654321,RealChampSportAcademyIndo,1212906870,Soccer,3.5,2,7.0
+0264985635,keyes,22,-,225,080875423456,Jalan Surya,0987654321,RealChampSportAcademyIndo,0987609876,Swimming,5.0,2,10.0
+1111111111,chicknyas,23,-,290,085244342555,Ader royal Street,0987654321,RealChampSportAcademyIndo,2244668899,Archery,3,1,3
+8888888888,xtra,22,-,230.05,1092,RINCKYSteet,0987654321,RealChampSportAcademyIndo,2244668899,Archery,4.0,2,8.0
+2222222222,tom,22,-,230.05,12345678, megaroad,0987654321,RealChampSportAcademyIndo,2244668899,Archery,3,1,3
+3333333333,markovich,22,-,230.10,12345678,newstreet44,0987654321,RealChampSportAcademyIndo,2244668899,Archery,3,1,3
+4444444444,Jack,22,-,230.10,12345678,21jumpgang,0987654321,RealChampSportAcademyIndo,2244668899,Archery,4.0,2,8.0
+1234567,Jack,12 February 2020,-,50,856423456,Americanstreet,0987654321,RealChampSportAcademyIndo,1234567890,VolleyBall,1,1,1

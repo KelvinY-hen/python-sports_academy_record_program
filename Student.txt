@@ -1,0 +1,8 @@
+Testing,Testing123,1234567890,SuperCool,M,Test123@mail.com,0987609876,Swimming,0987654321,RealChampSportAcademyIndo,350
+Check,Check123,1234512345,Heymans,M,Heymans@mail.com,0987609876,Swimming,0987654321,RealChampSportAcademyIndo,350
+Tom,Tom123,5789057890,Handsome,M,Handsome@gmail.com,2384635323,Cricket,0987654321,RealChampSportAcademyIndo,700
+Jack,Jack123,0101010101,Jack Nomor,M,Jack0101@mail.com,5732892312,TableTennis,5128909567,RealChampSportAcademySingapore,240
+Tomas,Tomas123,0202020202,Tomas123,F,Tomasisfemale@mai.com,2384635323,Cricket,5128909567,RealChampSportAcademySingapore,700
+Henry,Henry123,6789067890,Henry Mask,M,HenryLit@mail.com,5732892312,TableTennis,5128909567,RealChampSportAcademySingapore,240
+Henry2,Henry123,1234554321,Henry Musk,M,HenryMusk@mail.com,5732892312,TableTennis,5128909567,RealChampSportAcademySingapore,240
+Tes,123,5432112345,Sam Johnson,M,Sammail,1212906870,Soccer,0987654321,RealChampSportAcademyIndo,240
